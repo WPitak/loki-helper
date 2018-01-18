@@ -1,0 +1,5 @@
+module.exports.DB = require('./lib/db')
+module.exports.Collection = require('./lib/collection')
+module.exports.Object = require('./lib/object')
+module.exports.Schema = require('./lib/schema')
+module.exports.Error = require('./lib/error')
