@@ -599,6 +599,10 @@ cssom@0.3.x, "cssom@>= 0.3.2 < 0.4.0":
   dependencies:
     cssom "0.3.x"
 
+"custom-error-factory@git://github.com/WPitak/custom-error-factory.git#v1.0.0":
+  version "1.0.0"
+  resolved "git://github.com/WPitak/custom-error-factory.git#6f84eaf35937e7bee5ff57bf0fb129901cf95335"
+
 d@1:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/d/-/d-1.0.0.tgz#754bb5bfe55451da69a58b94d45f4c5b0462d58f"
